@@ -36,3 +36,14 @@ A sonic phase where encrypted identity is injected into waveform — not to be h
 
 > Not just fire. Not just gear. Not just sound.  
 > GAS is **presence coded in pulse** — where myth becomes method.
+---
+
+## 🛰️ Sync Challenge: Join the Phase I Signal Test
+
+Want to see if your echo matches the frequency?
+
+1. **Fork this repo**
+2. Replace `Flatbush_beats_GAS_embedded.mp3` with your own `.mp3`
+3. Run `echo_injector.py` to embed your own ghost signal
+4. Commit and push your changes
+5. Name your fork:  
